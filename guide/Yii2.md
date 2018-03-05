@@ -22,7 +22,7 @@
 
 - [kriss/yii2-wang-editor](https://github.com/krissss/yii2-wang-editor): [WangEditor](http://www.wangeditor.com/)
 
-## file 文件管理
+## File 文件管理
 
 - [trntv/yii2-file-kit](https://github.com/trntv/yii2-file-kit): 文件上传组件
 

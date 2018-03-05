@@ -2,12 +2,12 @@
 
 高效有用的开发资源
 
-# GUID
+# GUIDE
 
-- [PHP](src/PHP.md)
+- [PHP](guide/PHP.md)
 
-- [Yii2](src/Yii2.md)
+- [Yii2](guide/Yii2.md)
 
-- [Javascript](src/JS.md)
+- [Javascript](guide/JS.md)
 
-- [Vue](src/Vue.md)
+- [Vue](guide/Vue.md)

@@ -4,6 +4,12 @@
 
 [文档](http://php.net/docs.php)
 
+# PSR
+
+[官网](https://www.php-fig.org/)
+
+[PSR 标准](https://www.php-fig.org/psr/)
+
 # Composer 包
 
 ## Debug
@@ -33,5 +39,3 @@
 - [league/flysystem](https://github.com/thephpleague/flysystem): 资源管理
 
 - [monolog/monolog](https://github.com/Seldaek/monolog): 日志
-
-## PSR(https://www.php-fig.org/psr/)
