@@ -10,6 +10,12 @@
 
 [PSR 标准](https://www.php-fig.org/psr/)
 
+# The Right Way 最佳实践
+
+[英文](https://www.phptherightway.com/)
+
+[中文](http://laravel-china.github.io/php-the-right-way/)
+
 # Composer 包
 
 ## Debug
@@ -34,8 +40,17 @@
 
 - [overtrue/pinyin](https://github.com/overtrue/pinyin): 拼音处理
 
+## Http Client 网络请求
+
+- [guzzlehttp/guzzle](https://github.com/guzzle/guzzle): 使用范围广
+
+- [mashape/unirest-php](http://unirest.io/): 轻量，多语言支持
+
 ## Other 其他
 
 - [league/flysystem](https://github.com/thephpleague/flysystem): 资源管理
 
 - [monolog/monolog](https://github.com/Seldaek/monolog): 日志
+
+- [nesbot/carbon](https://github.com/briannesbitt/Carbon): 日期处理
+
